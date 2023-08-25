@@ -1,0 +1,500 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.page1{
+    background-image: url(images/background.jpg);
+    background-color: rgb(51, 48, 48);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay; 
+}
+.parent-nav-bar{
+    display: flex;
+    padding-top: 4px;
+}
+
+.txt-div ul{
+    display: flex;
+    margin-left: 130px;
+    padding-top: 42px;
+    font-size: 17px;
+}
+.txt-div ul a{
+    text-decoration: none;
+    padding-left: 27px;
+    color: white;
+    font-family: Calibri;
+}
+
+
+.logo-nav{
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+.fst{
+    text-align: center;
+    padding-top: 20px;
+    font-family: Trebuchet MS;
+    word-spacing: 3px;
+}
+
+
+.fst h3{
+    text-decoration: none;
+    font-size: 19px;
+    color: white;
+    padding-top: 90px;
+}
+
+.fst h1{
+    text-decoration: none;
+    font-size: 120px;
+    color: white;
+    
+}
+
+.fst h5{
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px; 
+    color: white;
+    padding: 7px;
+    font-weight: lighter;
+}
+.fst-btn{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 125px;      
+}
+.fst-btn button{
+    padding: 17px;
+    margin: 20px;
+    width: 185px;
+    background-color: rgb(48, 187, 78);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    }
+    .two button{
+        background-color: rgb(31, 31, 209);
+    }
+     .two button:hover{
+        background-color: aqua;
+     }
+    .one button{
+        width: 130px;
+    }
+
+
+    
+
+
+
+
+    
+
+ 
+
+    .ttt{
+        display: flex;
+        padding-top: 100px;
+    }
+    .ttt img{
+        padding-left: 100px;
+        
+        height: 380px;
+        width: 580px;
+        padding-bottom: 110px;
+    }
+    .ttt22{
+        padding-left: 40px;
+        font-family: Calibri;
+    }
+    .ttt22 h1{
+        text-decoration: none;
+        color: rgb(45, 132, 182);
+        padding-top: 20px;
+        font-size: 30px;
+        padding-bottom: 30px; 
+    }
+    .ttt22 h3{
+        padding: 4px;
+        font-weight: lighter;
+    }
+    button{
+        margin-top: 35px;
+        padding: 15px;
+        width: 150px;
+        border-radius: 10px;
+        font-size: 17px;
+        background-color:  rgb(45, 132, 182);
+        border: none;
+        color: white;
+    }
+    .iuytr{
+        background-color:  rgb(45, 132, 182);
+        max-width: 50px;
+        margin-left: 650px;
+        height: 5px;
+        margin-top: 15px;
+        
+    }
+    .iii h6{
+        font-size: 17px;
+        font-weight: lighter; 
+        text-align: center;
+        margin-top: 30px;
+        padding-bottom: 30px;
+        color: gray;   
+    }
+    .our h1{
+     color:rgb(45, 132, 182) ;
+     text-align: center;
+     font-size: 35px;
+     font-family:Calibri ;
+    }
+
+
+
+
+
+
+
+
+
+    .aall{
+        background-color: rgb(241, 238, 233);
+    }
+    .pen-cbd{
+        display: flex;
+        padding-bottom: 1px;
+        padding-top: 35px;
+        padding-left: 100px
+    }
+    .pen{
+        background-color: rgb(23, 114, 167);
+        height: 450px;
+        width: 350px;
+        border-top-right-radius: 100px;
+        border-bottom-left-radius: 100px;
+        color: white;
+        font-family:Calibri ;
+        padding-top: 55px;
+        padding-left: 35px;
+    }
+    .pen h1{
+        font-size: 28px;
+        padding-bottom: px;
+    }
+    .pen h3{
+        color: white;
+        font-size: 50px;
+        padding-bottom: 10px;
+    }
+    .pen h4{
+        font-size: 18px;
+        padding-bottom: 7px;
+        font-family:Calibri ;
+        font-weight: 510;
+    }
+    .pen h5{
+        font-size: 18px;
+        padding-bottom: 7px;
+        font-family:Calibri;
+        font-weight: 510;
+    }
+    .pen h6{
+        font-size: 18px;
+        color: white;
+        text-align: left;
+        margin-top: 30px;
+        font-weight: 510;  
+    }
+    .cbd img{
+       height: 220px;
+       width: 300px;
+    }
+    .cbd{
+       padding:  40px;
+       background-color: white;
+    }
+    .cbd h2{
+        font-family:Calibri;
+        color: rgb(23, 114, 167);
+        font-size: 22px;
+    }
+     .can h6{
+        font-size: 17px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+        color: gray;   
+     }
+     .can h5{
+        font-size: 17px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 8px;
+        font-family: calibri;
+        color: gray;
+     }
+     
+      .line{
+        font-style: italic;
+        font-size:30px;
+        color: rgb(202, 201, 201);
+        margin-bottom: 20px;  
+    }
+
+    .renew img{
+        height: 190px;
+        width: 300px;  
+    }
+    .renew{
+        padding:  40px;
+        background-color: white;
+        margin-right: 100px;
+        margin-left: 2px;
+     }
+     .renew h2{
+       font-family:Calibri;
+        color: rgb(23, 114, 167);
+        font-size: 22px; 
+     }
+      .renew h6{     
+        font-size: 16px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+        color: rgb(41, 40, 40);   
+     }
+     .renew h5{
+        font-size: 16px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+        color: rgb(54, 53, 53);
+     }
+
+
+
+
+      .forex{
+        display: flex;
+        background-color: rgb(241, 238, 233);
+        padding-left: 105px
+    }
+   
+    .fff img{
+       height: 220px;
+       width: 300px;
+    }
+    .fff{
+       padding:  40px;
+       background-color: white;
+    }
+    .fff h2{
+        font-family:Calibri;
+        color: rgb(23, 114, 167);
+        font-size: 22px;
+    }
+     .for h6{
+        font-size: 16px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+           
+     }
+     .for h5{
+        font-size: 17px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 8px;
+        font-family: calibri;
+     }
+     
+      .line{
+        font-style: italic;
+        font-size:30px;
+        color: rgb(202, 201, 201);
+        margin-bottom: 20px;  
+    }
+
+    .stock img{
+        height: 190px;
+        width: 300px;  
+    }
+    .stock{
+        padding:  40px;
+        background-color: white;
+        margin-right: 1px;
+        margin-left: 2px;
+     }
+     .stock h2{
+       font-family:Calibri;
+        color: rgb(23, 114, 167);
+        font-size: 22px; 
+     }
+      .stock h6{     
+        font-size: 16px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+        color: rgb(41, 40, 40);   
+     }
+     .stock h5{
+        font-size: 16px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+        color: rgb(54, 53, 53);
+     }
+     .stock img:hover{
+       transform: scale(1.2);
+       background: none;
+     }
+     .line{
+        position: relative;
+        z-index: 2;
+        margin-top: -12px;
+     }
+
+    .cry img{
+        height: 190px;
+        width: 300px;  
+    }
+    .cry{
+        padding:  40px;
+        background-color: white;
+        margin-right: 100px;
+        margin-left: 2px;
+        
+     }
+    
+     .cry h2{
+       font-family:Calibri;
+        color: rgb(23, 114, 167);
+        font-size: 22px; 
+     }
+      .cry h6{     
+        font-size: 16px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+        color: rgb(41, 40, 40);   
+     }
+     .cry h5{
+        font-size: 16px;
+        font-weight: 350; 
+        text-align: justify;
+        padding-bottom: 10px;
+        font-family: calibri;
+        color: rgb(78, 69, 69);
+     }
+     .view{
+      padding-left: 600px;
+       background-color: rgb(241, 238, 233); 
+     }
+    .b{
+        max-height: 48px;
+        width: 180px;
+        border-radius: 20px;
+        background-color: rgb(37, 122, 172);
+        margin-bottom: 30px;
+     }
+
+
+
+
+
+
+
+
+.inv{
+    display: flex;
+    background-color: white;
+    }
+.inv img{
+    width: 590px;
+    padding-left: 110px;
+    padding-top: 100px;
+} 
+.vest{
+    background-color: rgb(17, 121, 182);
+    margin-right: 110px;
+    margin-top: 100px;
+    width: 590px;
+}  
+.vest h1{
+    color: white;
+    font-size: 43px;
+    font-family: calibri;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-weight: bolder;
+    padding-bottom: 50px;
+} 
+.vest h5{
+    padding-left: 60px;  
+    font-size: 16px;
+    color: white;
+    font-family: calibri;
+    font-weight:lighter ;  
+}
+
+.vest h6{
+    padding-left: 60px;  
+    font-size: 16px;
+    color: white;
+    font-family: calibri;
+    font-weight:lighter ;
+}
+.invest button{
+    background-color: white;
+    color: rgb(17, 121, 182);
+    font-family: calibri;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.lll{
+        background-color:  rgb(45, 132, 182);
+        max-width: 50px;
+        margin-left: 680px;
+        height: 5px;
+        margin-top: 155px;    
+}
+
+
+
+
+
+@media screen and (max-width:700px) {
+    *{
+        max-width: 100%;
+    }
+    ul a {
+        display: none;
+    }
+    .logo-nav img{
+        width: 100px;
+        margin-top: -100px;
+        margin-left: -30px;
+
+        padding: 0px;
+    }
+}
